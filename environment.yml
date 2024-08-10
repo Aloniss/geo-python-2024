@@ -417,4 +417,3 @@ dependencies:
       - pyinstaller==5.8.0
       - pyinstaller-hooks-contrib==2023.0
       - pywin32-ctypes==0.2.0
-prefix: C:\Users\natur\miniconda3\envs\earth-analytics-python
